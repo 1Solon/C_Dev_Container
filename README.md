@@ -6,7 +6,7 @@ This is a C development container for Visual Studio Code, it contains the follow
 * [cmake](https://cmake.org/)
 * [clangd](https://clangd.llvm.org/)
 
-This container is heavily based on @f-squirrel 's work, they deserve all the credit for their great explanations!
+This container is heavily based on [f-squirrel's](https://github.com/f-squirrel) work, they deserve all the credit for their great explanations!
 
 * [dockerized-cpp-build](https://ddanilov.me/dockerized-cpp-build)
 * [dockerized-cpp-build-with-vscode](https://ddanilov.me/dockerized-cpp-build-with-vscode)
