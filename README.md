@@ -2,9 +2,9 @@
 
 This is a C development container for Visual Studio Code, it contains the following tools:
 
-    * gcc
-    * cmake
-    * clangd
+* gcc
+* cmake
+* clangd
   
 ## How to use
 
@@ -12,9 +12,9 @@ First, open the project in visual studio code. You should then get a prompt to o
 
 Next, run the following command:
 
-    ```bash
-        cd ./build && cmake .. -DCMAKE_EXPORT_COMPILE_COMMANDS=1 && make
-    ```
+```bash
+cd ./build && cmake .. -DCMAKE_EXPORT_COMPILE_COMMANDS=1 && make
+```
 
 You can then use `make` to build the project. The executable will be deposited in the [build](/build/) directory.
 
